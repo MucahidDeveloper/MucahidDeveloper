@@ -62,7 +62,7 @@
 
 
 
-### Wait for it!  
+### 
 
 </td></tr></table>  
 
