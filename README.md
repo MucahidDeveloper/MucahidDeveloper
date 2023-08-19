@@ -87,8 +87,8 @@
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <div align="center"><a href="http://www.github.com/MucahidDeveloper"><img src="https://github-readme-stats.vercel.app/api?username=MucahidDeveloper&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=14532d&hide_border=true&show_icons=true" alt="MucahidDeveloper's GitHub stats" /></a>
 </div>  
-
+-->
 <br/>  
