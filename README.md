@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning AWS  
   
 
-- 💻 All of my projects are available at [My Portfolio](https://mcd-portfolio.netlify.app/)  
+<!-- - 💻 All of my projects are available at [My Portfolio]()  -->
   
 
 - 📬 To reach me Mucadad221@gmail.com / or WhatsUp: +905342200592  
