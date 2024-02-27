@@ -4,7 +4,7 @@
 -----------------------------------
 
 *   🌍  I'm based in Turkey
-*   🖥️  See my portfolio at [MyPortfolio](http://https://mujdeveloper.netlify.app/)
+*   🖥️  See my portfolio at [MyPortfolio](https://mujdeveloper.netlify.app/)
 *   📬  You can contact me at [Mail: mucadad221@gmail.com](mailto:mucadad221@gmail.com) or [What's App: +905342200592](wa.me/905342200592)
 *   🔭  I’m currently working on React project
 *   🌱  I’m currently AWS
